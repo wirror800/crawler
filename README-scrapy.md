@@ -1,11 +1,11 @@
 # Scrapy安装
 
 ## 1、安装scrapy
-### 下载安装
+### 方式一：下载安装
         #wget https://codeload.github.com/scrapy/scrapy/zip/0.24 -O scrapy.zip
         #unzip scrapy.zip
 
-### pip安装
+### 方式二：pip安装(执行下方2.2后,再执行该步骤)
         #pip install Scrapy
 
 ### pipy国内镜像目前有：
@@ -80,7 +80,7 @@
 
         或者
         # pip install PIL --allow-external PIL --allow-unverified PIL
-        
+
         或者
         # pip install Pillow
 
