@@ -7,5 +7,14 @@
 # 依赖环境
 Python2.7
 
+# 安装其他依赖及工具
+        $ pip install cffi
+        $ pip install libffi-dev
+        $ pip install cryptography
+        $ pip install mysql-python
+        $ pip install service_identity
+        $ pip install pypinyin
+        $ pip install redis
+
 # 使用方法
-> scrapy crawl flat
+> $ scrapy crawl flat

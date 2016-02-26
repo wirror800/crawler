@@ -18,6 +18,9 @@
         如果想手动指定源，可以在pip后面跟-i 来指定源，比如用豆瓣的源来安装web.py框架：
         #pip install web.py -i http://pypi.douban.com/simple
 
+        升级pip
+        #pip install --upgrade pip
+
 ## 2、安装依赖
 ### (1)python 2.7
         #yum groupinstall "Development tools"
